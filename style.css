@@ -24,6 +24,7 @@ header {
     min-height: 250px;
     background-image: linear-gradient(to right, #820200, #210D0E, #171A21);
     text-align: center;
+    padding-top: 30px;
 }
 header > h1 {
     color: white;
